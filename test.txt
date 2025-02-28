@@ -1,4 +1,7 @@
 My name is rakeshreddy
 I am practicin g git 
+<<<<<<< HEAD
 today is the first practice session 
 today will not be last sessiuon 
+=======
+>>>>>>> parent of eeaeae1 (Update test.txt)

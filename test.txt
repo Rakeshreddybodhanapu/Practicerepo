@@ -1,5 +1,4 @@
 My name is rakeshreddy
 I am practicin g git 
-
-
-today is not the last sessiuon 
+today is the first practice session 
+today will not be last sessiuon 
